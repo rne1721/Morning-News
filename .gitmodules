@@ -1,0 +1,3 @@
+[submodule "morning-news"]
+	path = morning-news
+	url = git@github.com:rne1721/morning-news.git
